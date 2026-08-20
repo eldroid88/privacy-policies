@@ -1,10 +1,10 @@
-# Privacy Policy for Unscroll
+# Privacy Policy for ScrollPace
 
 **Effective date: August 20, 2026**
 
-Unscroll is an Android digital wellbeing application published by **Eldroid Apps**, an independent developer.
+ScrollPace is an Android digital wellbeing application published by **Eldroid Apps**, an independent developer.
 
-This Privacy Policy explains what information Unscroll accesses, processes, stores, and shares.
+This Privacy Policy explains what information ScrollPace accesses, processes, stores, and shares.
 
 For privacy questions, contact:
 
@@ -13,17 +13,17 @@ For privacy questions, contact:
 
 ## 1. Overview
 
-Unscroll helps users manage time spent in a selected application. When a chosen daily limit is reached, Unscroll can offer a walking challenge that unlocks additional usage time.
+ScrollPace helps users manage time spent in a selected application. When a chosen daily limit is reached, ScrollPace can offer a walking challenge that unlocks additional usage time.
 
 Most wellbeing and usage information is processed and stored locally on the user's device.
 
-Unscroll does not require an account and does not ask for a user's name, email address, contacts, messages, passwords, photos, precise location, or payment information.
+ScrollPace does not require an account and does not ask for a user's name, email address, contacts, messages, passwords, photos, precise location, or payment information.
 
-Unscroll uses Firebase Analytics and Firebase Crashlytics for application analytics and technical diagnostics.
+ScrollPace uses Firebase Analytics and Firebase Crashlytics for application analytics and technical diagnostics.
 
 ## 2. Information stored locally
 
-Unscroll processes and stores the following information locally on the user's device:
+ScrollPace processes and stores the following information locally on the user's device:
 
 - Package name and display name of the application selected for protection
 - Selected daily usage limit
@@ -38,13 +38,13 @@ Unscroll processes and stores the following information locally on the user's de
 
 This information is stored using Android DataStore or private application preferences.
 
-Unscroll does not intentionally transmit this local wellbeing information to Eldroid Apps, Firebase Analytics, Firebase Crashlytics, advertisers, or data brokers.
+ScrollPace does not intentionally transmit this local wellbeing information to Eldroid Apps, Firebase Analytics, Firebase Crashlytics, advertisers, or data brokers.
 
-Android backup is disabled for Unscroll.
+Android backup is disabled for ScrollPace.
 
 ## 3. Installed applications
 
-Unscroll accesses the list of launchable applications installed on the device so that the user can select an application to protect.
+ScrollPace accesses the list of launchable applications installed on the device so that the user can select an application to protect.
 
 The installed application list is:
 
@@ -57,15 +57,15 @@ Only the application selected by the user is stored locally as the protected app
 
 ## 4. Accessibility Service
 
-Unscroll uses the Android AccessibilityService API to provide its core digital wellbeing functionality.
+ScrollPace uses the Android AccessibilityService API to provide its core digital wellbeing functionality.
 
-Unscroll is **not an accessibility tool** and does not claim that its primary purpose is to assist users with disabilities.
+ScrollPace is **not an accessibility tool** and does not claim that its primary purpose is to assist users with disabilities.
 
 ### Information accessed
 
 The Accessibility Service observes Android window-change events and accesses the package identity of the application currently visible in the foreground.
 
-Unscroll compares that identity with the application selected by the user for protection.
+ScrollPace compares that identity with the application selected by the user for protection.
 
 ### How this information is used
 
@@ -81,7 +81,7 @@ Only the selected protected application's identity and usage information are sto
 
 ### What the Accessibility Service does not do
 
-Unscroll does not use Accessibility access to:
+ScrollPace does not use Accessibility access to:
 
 - Read messages or notifications
 - Read or collect passwords
@@ -99,7 +99,7 @@ Information obtained through Accessibility access is not shared with Firebase, a
 
 ### Consent and user control
 
-Before directing the user to Android Accessibility settings, Unscroll displays a separate in-app disclosure explaining:
+Before directing the user to Android Accessibility settings, ScrollPace displays a separate in-app disclosure explaining:
 
 - What information is accessed
 - Why the information is needed
@@ -113,7 +113,7 @@ Accessibility access is optional and may be declined or revoked at any time thro
 
 ## 5. Physical activity and step information
 
-Unscroll may request Android's `ACTIVITY_RECOGNITION` permission.
+ScrollPace may request Android's `ACTIVITY_RECOGNITION` permission.
 
 This permission is used during walking challenges to receive step information from the device's step detector or step counter sensor.
 
@@ -123,7 +123,7 @@ Step information is used to:
 - Determine when a challenge is completed
 - Award additional protected-app usage time
 
-Unscroll does not use GPS and does not collect precise or approximate location data.
+ScrollPace does not use GPS and does not collect precise or approximate location data.
 
 Walking challenge information is processed locally and is not intentionally sent to Firebase Analytics or Firebase Crashlytics.
 
@@ -131,13 +131,13 @@ The user may deny or revoke physical activity permission through Android setting
 
 ## 6. Firebase Analytics
 
-Unscroll uses Google Analytics for Firebase to understand general application usage.
+ScrollPace uses Google Analytics for Firebase to understand general application usage.
 
 Analytics collection starts automatically when the application runs.
 
 Information processed through Firebase Analytics may include:
 
-- Names of screens visited within Unscroll
+- Names of screens visited within ScrollPace
 - Whether the application build is a debug or release build
 - Application interactions and session information
 - Application version
@@ -146,7 +146,7 @@ Information processed through Firebase Analytics may include:
 - General technical information automatically processed by Firebase
 - Approximate geographic information derived by Google from network information, where applicable
 
-Unscroll does not intentionally include the following in Analytics events:
+ScrollPace does not intentionally include the following in Analytics events:
 
 - Identity of the protected application
 - Protected-application usage duration
@@ -156,13 +156,13 @@ Unscroll does not intentionally include the following in Analytics events:
 - Typed text
 - Screen content
 
-Analytics information is used to understand feature usage and improve Unscroll.
+Analytics information is used to understand feature usage and improve ScrollPace.
 
 Firebase Analytics data is not used by Eldroid Apps for third-party advertising.
 
 ## 7. Firebase Crashlytics
 
-Unscroll uses Firebase Crashlytics to identify crashes and improve application stability.
+ScrollPace uses Firebase Crashlytics to identify crashes and improve application stability.
 
 Crashlytics may process:
 
@@ -176,7 +176,7 @@ Crashlytics may process:
 - Firebase and Crashlytics installation identifiers
 - Other technical diagnostics required to investigate crashes
 
-Unscroll does not intentionally attach protected-app identity, usage history, walking progress, messages, passwords, typed text, or screen content to Crashlytics reports.
+ScrollPace does not intentionally attach protected-app identity, usage history, walking progress, messages, passwords, typed text, or screen content to Crashlytics reports.
 
 Google states that Crashlytics crash information and associated identifiers are generally retained for 90 days before deletion begins.
 
@@ -207,23 +207,23 @@ Information obtained through the Accessibility Service is not shared with Google
 
 ## 10. Data retention and deletion
 
-Local Unscroll data remains on the device until the user:
+Local ScrollPace data remains on the device until the user:
 
-- Removes the protected application from Unscroll
-- Clears Unscroll's application data through Android settings
-- Uninstalls Unscroll
+- Removes the protected application from ScrollPace
+- Clears ScrollPace's application data through Android settings
+- Uninstalls ScrollPace
 
-Because Unscroll does not provide user accounts, locally stored information is not associated with an Eldroid Apps account.
+Because ScrollPace does not provide user accounts, locally stored information is not associated with an Eldroid Apps account.
 
 Firebase Analytics information is retained according to the retention settings and terms of the Firebase and Google Analytics services.
 
 Firebase Crashlytics generally retains crash reports and associated identifiers for 90 days before deletion begins.
 
-Users may contact Eldroid Apps regarding remotely processed information. Because Unscroll does not use user accounts, Eldroid Apps may require an applicable installation identifier to locate pseudonymous technical data.
+Users may contact Eldroid Apps regarding remotely processed information. Because ScrollPace does not use user accounts, Eldroid Apps may require an applicable installation identifier to locate pseudonymous technical data.
 
 ## 11. Security
 
-Unscroll uses Android private application storage for locally stored information.
+ScrollPace uses Android private application storage for locally stored information.
 
 Information sent to Firebase is transmitted using encrypted network connections. Google states that Firebase services use encryption in transit and applicable security controls.
 
@@ -237,22 +237,22 @@ Users can:
 - Disable Accessibility access through Android settings
 - Choose whether to grant physical activity permission
 - Revoke physical activity permission through Android settings
-- Remove the protected application from Unscroll
+- Remove the protected application from ScrollPace
 - Clear local data through Android application settings
-- Delete local data by uninstalling Unscroll
+- Delete local data by uninstalling ScrollPace
 - Contact Eldroid Apps regarding privacy questions or applicable data rights
 
 Depending on their location, users may have rights to access, correct, object to, restrict, or request deletion of personal information.
 
 ## 13. Children's privacy
 
-Unscroll is not directed to children under 13 years of age.
+ScrollPace is not directed to children under 13 years of age.
 
-Eldroid Apps does not knowingly collect personal information from children under 13. If you believe that a child has provided personal information through Unscroll, contact eldroid.apps@gmail.com.
+Eldroid Apps does not knowingly collect personal information from children under 13. If you believe that a child has provided personal information through ScrollPace, contact eldroid.apps@gmail.com.
 
 ## 14. Changes to this policy
 
-This Privacy Policy may be updated when Unscroll's functionality, data practices, or legal requirements change.
+This Privacy Policy may be updated when ScrollPace's functionality, data practices, or legal requirements change.
 
 The updated policy will be published at the same public URL with a revised effective date.
 
