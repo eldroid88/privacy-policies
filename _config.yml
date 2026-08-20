@@ -1,0 +1,4 @@
+# Site chrome uses this as the header / "| …" browser suffix.
+# Keep empty so Unscroll (and future app) policies show only their own page title.
+title: ""
+description: ""
